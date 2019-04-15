@@ -10,4 +10,4 @@ You are more than welcome to be come a contributor to this repository and offer 
 
 Thanks for checking it out,
 
-MInh
+Minh
